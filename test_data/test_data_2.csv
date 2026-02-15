@@ -1,0 +1,61 @@
+Car_ID,Brand,Manufacture_Year,Body_Type,Fuel_Type,Transmission,Engine_CC,Horsepower,Mileage_km_per_l,Price_USD,Manufacturing_Country,Car_Age,Price_Category,HP_per_CC,Age_Category,Efficiency_Score
+CAR_0061,Kia,2017,Coupe,Hybrid,Automatic,2268,420,21,94338,USA,9,Luxury,0.1852,Moderate,0.55
+CAR_0062,Toyota,2011,Sedan,Diesel,Automatic,4196,307,22,107140,South Korea,15,Luxury,0.0732,Old,0.6
+CAR_0063,Toyota,2010,Coupe,Petrol,Manual,3486,169,17,97963,South Korea,16,Luxury,0.0485,Old,0.35
+CAR_0064,Audi,2012,Sedan,Diesel,Automatic,3388,569,18,89404,USA,14,Premium,0.1679,Old,0.4
+CAR_0065,Hyundai,2010,SUV,Electric,Automatic,4407,92,30,8438,UK,16,Budget,0.0209,Old,1.0
+CAR_0066,BMW,2009,Coupe,Diesel,Automatic,4902,183,11,29850,Germany,17,Budget,0.0373,Old,0.05
+CAR_0067,Hyundai,2022,Sedan,Petrol,Manual,2563,499,16,7703,Germany,4,Budget,0.1947,Recent,0.3
+CAR_0068,Ford,2024,Hatchback,Diesel,Automatic,3662,469,20,117850,South Korea,2,Luxury,0.1281,New,0.5
+CAR_0069,Mercedes,2006,SUV,Hybrid,Manual,3474,158,11,86719,Japan,20,Premium,0.0455,Old,0.05
+CAR_0070,Nissan,2010,SUV,Diesel,Automatic,3756,576,11,63738,South Korea,16,Premium,0.1534,Old,0.05
+CAR_0071,Kia,2010,Sedan,Diesel,Manual,4042,557,29,29558,South Korea,16,Budget,0.1378,Old,0.95
+CAR_0072,BMW,2019,Sedan,Electric,Automatic,1733,87,16,75514,UK,7,Premium,0.0502,Recent,0.3
+CAR_0073,Nissan,2010,Coupe,Hybrid,Automatic,4469,348,22,106739,Germany,16,Luxury,0.0779,Old,0.6
+CAR_0074,Tesla,2023,Coupe,Petrol,Automatic,1815,96,15,29000,USA,3,Budget,0.0529,New,0.25
+CAR_0075,Ford,2014,Hatchback,Electric,Automatic,3659,268,25,76983,Germany,12,Premium,0.0732,Moderate,0.75
+CAR_0076,Kia,2015,Pickup,Diesel,Automatic,2443,243,16,119587,South Korea,11,Luxury,0.0995,Moderate,0.3
+CAR_0077,Nissan,2012,Sedan,Petrol,Manual,2589,431,23,73201,Germany,14,Premium,0.1665,Old,0.65
+CAR_0078,BMW,2017,SUV,Diesel,Automatic,4899,124,13,28588,South Korea,9,Budget,0.0253,Moderate,0.15
+CAR_0079,Tesla,2018,Pickup,Petrol,Automatic,3224,503,14,119258,China,8,Luxury,0.156,Moderate,0.2
+CAR_0080,Ford,2013,Pickup,Petrol,Manual,3805,432,14,114221,UK,13,Luxury,0.1135,Old,0.2
+CAR_0081,Toyota,2018,Pickup,Hybrid,Automatic,1020,536,22,50814,Germany,8,Mid-Range,0.5255,Moderate,0.6
+CAR_0082,Tesla,2025,SUV,Diesel,Automatic,3664,568,16,12319,UK,1,Budget,0.155,New,0.3
+CAR_0083,Honda,2014,Sedan,Diesel,Automatic,1930,78,13,84035,China,12,Premium,0.0404,Moderate,0.15
+CAR_0084,Hyundai,2015,Sedan,Electric,Automatic,3291,204,16,87233,South Korea,11,Premium,0.062,Moderate,0.3
+CAR_0085,BMW,2007,SUV,Diesel,Manual,4555,352,18,70411,UK,19,Premium,0.0773,Old,0.4
+CAR_0086,Audi,2020,SUV,Electric,Manual,1026,331,20,18792,Germany,6,Budget,0.3226,Recent,0.5
+CAR_0087,Honda,2022,SUV,Electric,Manual,3967,137,30,22091,USA,4,Budget,0.0345,Recent,1.0
+CAR_0088,Kia,2016,Pickup,Petrol,Manual,4611,149,13,5221,China,10,Budget,0.0323,Moderate,0.15
+CAR_0089,Hyundai,2009,SUV,Diesel,Manual,3564,100,29,5989,China,17,Budget,0.0281,Old,0.95
+CAR_0090,Ford,2023,Sedan,Hybrid,Manual,1883,231,18,12591,China,3,Budget,0.1227,New,0.4
+CAR_0091,Kia,2012,SUV,Hybrid,Automatic,3587,165,29,10728,Germany,14,Budget,0.046,Old,0.95
+CAR_0092,Hyundai,2014,Pickup,Petrol,Automatic,2312,485,17,61508,Japan,12,Premium,0.2098,Moderate,0.35
+CAR_0093,Nissan,2020,SUV,Electric,Automatic,4994,301,12,7283,USA,6,Budget,0.0603,Recent,0.1
+CAR_0094,Ford,2022,Sedan,Diesel,Manual,3654,287,23,74935,USA,4,Premium,0.0785,Recent,0.65
+CAR_0095,Hyundai,2023,Sedan,Electric,Manual,4965,156,17,83841,USA,3,Premium,0.0314,New,0.35
+CAR_0096,Ford,2010,Pickup,Electric,Automatic,4964,499,10,51708,USA,16,Mid-Range,0.1005,Old,0.0
+CAR_0097,Honda,2008,Coupe,Electric,Manual,3897,322,25,79534,Germany,18,Premium,0.0826,Old,0.75
+CAR_0098,Audi,2014,Coupe,Petrol,Automatic,2677,560,11,25809,USA,12,Budget,0.2092,Moderate,0.05
+CAR_0099,Hyundai,2023,Hatchback,Diesel,Manual,3592,252,22,22245,Germany,3,Budget,0.0702,New,0.6
+CAR_0100,Ford,2010,Hatchback,Diesel,Manual,2951,323,13,52934,USA,16,Mid-Range,0.1095,Old,0.15
+CAR_0101,Honda,2015,Coupe,Hybrid,Manual,4555,349,15,38522,Germany,11,Mid-Range,0.0766,Moderate,0.25
+CAR_0102,BMW,2005,SUV,Petrol,Manual,1151,394,17,12406,Germany,21,Budget,0.3423,Old,0.35
+CAR_0103,Tesla,2009,Sedan,Hybrid,Manual,2717,460,12,95899,Japan,17,Luxury,0.1693,Old,0.1
+CAR_0104,Nissan,2017,Pickup,Petrol,Manual,4040,120,27,87674,UK,9,Premium,0.0297,Moderate,0.85
+CAR_0105,Hyundai,2007,Sedan,Electric,Manual,2635,183,24,9197,Germany,19,Budget,0.0694,Old,0.7
+CAR_0106,Nissan,2020,Pickup,Hybrid,Manual,1947,235,12,117199,UK,6,Luxury,0.1207,Recent,0.1
+CAR_0107,Toyota,2025,Coupe,Diesel,Manual,1332,423,27,18962,China,1,Budget,0.3176,New,0.85
+CAR_0108,Tesla,2021,Coupe,Hybrid,Manual,4823,182,17,23687,China,5,Budget,0.0377,Recent,0.35
+CAR_0109,BMW,2010,Hatchback,Petrol,Automatic,2066,338,23,13047,Germany,16,Budget,0.1636,Old,0.65
+CAR_0110,Honda,2014,Pickup,Diesel,Manual,4702,110,11,18918,South Korea,12,Budget,0.0234,Moderate,0.05
+CAR_0111,Nissan,2014,Pickup,Hybrid,Manual,2200,73,29,27328,USA,12,Budget,0.0332,Moderate,0.95
+CAR_0112,Tesla,2013,Coupe,Hybrid,Manual,1255,274,25,64566,Japan,13,Premium,0.2183,Old,0.75
+CAR_0113,BMW,2008,Sedan,Electric,Manual,2280,480,25,47553,Germany,18,Mid-Range,0.2105,Old,0.75
+CAR_0114,Mercedes,2010,Pickup,Hybrid,Manual,2020,491,30,112236,UK,16,Luxury,0.2431,Old,1.0
+CAR_0115,Ford,2015,Sedan,Diesel,Manual,2020,463,16,104688,Japan,11,Luxury,0.2292,Moderate,0.3
+CAR_0116,Toyota,2007,Hatchback,Hybrid,Manual,4382,552,23,42173,China,19,Mid-Range,0.126,Old,0.65
+CAR_0117,Mercedes,2024,Sedan,Petrol,Manual,2882,81,17,53599,China,2,Mid-Range,0.0281,New,0.35
+CAR_0118,BMW,2013,Sedan,Hybrid,Manual,1571,154,14,34874,Japan,13,Mid-Range,0.098,Old,0.2
+CAR_0119,Hyundai,2019,SUV,Diesel,Manual,3827,121,23,54163,South Korea,7,Mid-Range,0.0316,Recent,0.65
+CAR_0120,Tesla,2018,Hatchback,Hybrid,Manual,1500,70,24,77525,South Korea,8,Premium,0.0467,Moderate,0.7
