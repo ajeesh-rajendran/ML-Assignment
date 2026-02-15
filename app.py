@@ -193,6 +193,23 @@ with st.sidebar:
 
     st.divider()
 
+    # Model Upload
+    st.subheader("📤 Upload Model File")
+    uploaded_model = st.file_uploader(
+        "Upload a .joblib model file",
+        type=["joblib"],
+        help="Upload a trained model (.joblib) to add it to the Models folder."
+    )
+    if uploaded_model is not None:
+        save_path = os.path.join(MODELS_DIR, uploaded_model.name)
+        with open(save_path, "wb") as f:
+            f.write(uploaded_model.getbuffer())
+        st.success(f"✅ Model saved: **{uploaded_model.name}**")
+        st.cache_resource.clear()
+        st.rerun()
+
+    st.divider()
+
     # CSV Upload
     st.subheader("📁 Upload Test Data")
     uploaded_file = st.file_uploader(
