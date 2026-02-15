@@ -1,0 +1,26 @@
+  
+Work Integrated Learning Programmes Division 
+M.Tech (AIML/ DSE)  
+Machine Learning 
+Assignment - 2  
+Marks: 15          Submission Deadline: 15-Feb-2026 
+1. Overview 
+In this assignment, you are required to: - Implement multiple classification models - 
+Build an interactive Streamlit web application to demonstrate your models - Deploy 
+the app on Streamlit Community Cloud (FREE) - Share clickable links for evaluation 
+You will learn real-world end-to-end ML deployment workflow:  modeling, 
+evaluation, UI design, and deployment. 
+The assignment has to be performed on BITS Virtual Lab. If you are still facing any 
+issue with this, please send an email to neha.vinayak@pilani.bits-pilani.ac.in with 
+subject as “ML Assignment 2: BITS Lab issue” and get it resolved at the earliest. 
+2. Mandatory Submission Links 
+Each submission must be a single PDF file with the following (maintain the order): 
+1.​ GitHub Repository Link containing 
+o​ Complete source code 
+o​ requirements.txt 
+o​ A clear README.md 
+2.​ Live Streamlit App Link 
+o​ Deployed using Streamlit Community Cloud 
+o​ Must open an interactive frontend when clicked 
+3.​ Screenshot 
+o​ Upload screenshot of assignment execution on BITS Virtual Lab 

@@ -1,0 +1,27 @@
+Within a few minutes, your app will be live. 
+Your Streamlit app must include at least the following features : -  
+a.​ Dataset upload option (CSV) [As streamlit free tier has limited capacity, 
+upload only test data] [ 1 mark ] 
+b.​ Model selection dropdown (if multiple models) [ 1 mark ] 
+c.​ Display of evaluation metrics [ 1 mark ] 
+d.​ Confusion matrix or classification report [ 1 mark ] 
+5. Anti-Plagiarism & Academic Integrity Guidelines 
+To ensure originality we will be performing the following checks. Any plagiarism 
+found will result in ZERO (0) marks. 
+Code-Level Checks 
+●​ GitHub commit history will be reviewed 
+●​ Identical repo structure & variable names may be flagged 
+UI-Level Checks 
+●​ Copy-paste Streamlit templates without customization may be penalized 
+Model-Level Checks 
+●​ Same dataset + same model + same outputs across students will be 
+investigated 
+Using AI tools is allowed only for learning support, not for direct copy-paste 
+submissions. 
+8. Final Submission Checklist (Before You Submit) 
+☐ GitHub repo link works  
+☐ Streamlit app link opens correctly  
+☐ App loads without errors  
+☐ All required features implemented  
+☐ README.md updated and added in the submitted PDF. 
+ 

@@ -1,0 +1,39 @@
+6.​ Matthews Correlation Coefficient (MCC Score) 
+The assignment has to be performed on BITS Virtual Lab and a (ONE) screenshot 
+has to be uploaded as a proof of that. [ 1 mark ] 
+Step 3: Prepare Your GitHub Repository 
+Your repository must contain: 
+project-folder/​
+│-- app.py   (or streamlit_app.py)​
+│-- requirements.txt​
+│-- README.md​
+│-- model/ (saved model files for all implemented models - *.py or *.ipynb) 
+Step 4: Create requirements.txt 
+Example: 
+streamlit​
+scikit-learn​
+numpy​
+pandas​
+matplotlib​
+seaborn 
+Missing dependencies are the #1 cause of deployment failure. 
+Step 5: README.md with the following structure. This README content should also 
+be part of the submitted PDF file. Follow the required structure carefully. 
+a.​ Problem statement  
+b.​ Dataset description [ 1 mark ] 
+c.​ Models used: [ 6 marks - 1 marks for all the metrics for each model ]​
+Make a Comparison Table with the evaluation metrics calculated for all the 6  
+models as below:  
+ML Model Name 
+Accuracy 
+AUC 
+Precision Recall F1 
+MCC 
+Logistic 
+Regression 
+ 
+ 
+ 
+ 
+ 
+ 

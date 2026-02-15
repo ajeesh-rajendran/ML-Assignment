@@ -1,0 +1,65 @@
+Decision Tree 
+ 
+ 
+ 
+ 
+ 
+ 
+kNN 
+ 
+ 
+ 
+ 
+ 
+ 
+Naive Bayes 
+ 
+ 
+ 
+ 
+ 
+ 
+Random Forest 
+(Ensemble) 
+ 
+ 
+ 
+ 
+ 
+ 
+XGBoost 
+(Ensemble) 
+ 
+ 
+ 
+ 
+ 
+ 
+​
+- Add your observations on the performance of each model on the chosen 
+dataset. [ 3 marks ] 
+ML Model Name 
+Observation about model performance 
+Logistic 
+Regression 
+ 
+Decision Tree 
+ 
+kNN 
+ 
+Naive Bayes 
+ 
+Random Forest 
+(Ensemble) 
+ 
+XGBoost 
+(Ensemble) 
+ 
+Step 6: Deploy on Streamlit Community Cloud 
+1.​ Go to https://streamlit.io/cloud 
+2.​ Sign in using GitHub account 
+3.​ Click “New App” 
+4.​ Select your repository 
+5.​ Choose branch (usually main) 
+6.​ Select app.py 
+7.​ Click Deploy 

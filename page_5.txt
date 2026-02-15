@@ -1,0 +1,9 @@
+The assignment is for 15 Marks - Model implementation and uploading on Github 
+(10 marks) ; Streamlit App Development (4 marks). Additional 1 mark is for 
+performing the assignment on BITS Lab and uploading a screenshot of the same. 
+No extension of deadlines will be provided. Please submit within the deadline - 15 
+Feb 23:59 PM. 
+No DRAFT submissions will be accepted. Please remember to SUBMIT your 
+assignment. 
+Note: There is no leaderboard for this assignment and there will be no comparison 
+of model performance across students. 
